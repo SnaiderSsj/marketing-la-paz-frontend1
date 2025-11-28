@@ -46,7 +46,7 @@ export default function Dashboard() {
               Campañas Recientes
             </h2>
             <Link to="/campañas" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
-              Ver todas →
+              Ver todas... →
             </Link>
           </div>
           <CampañasList />
